@@ -1,0 +1,26 @@
+[
+  {
+    "inputs": [
+      {
+        "internalType": "bytes32",
+        "name": "",
+        "type": "bytes32"
+      }
+    ],
+    "name": "ilks",
+    "outputs": [
+      {
+        "internalType": "address",
+        "name": "pip",
+        "type": "address"
+      },
+      {
+        "internalType": "uint256",
+        "name": "mat",
+        "type": "uint256"
+      }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+  }
+]
